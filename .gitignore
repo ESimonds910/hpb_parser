@@ -1,0 +1,4 @@
+__pycache__/
+parenv/
+.ipynb_checkpoints/
+__init__.py
